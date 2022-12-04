@@ -1,2 +1,2 @@
 # Political-bias--analysis
-It detects political bias in articles.
+detects political bias in articles.
